@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+### Descrição
 
-You can use the [editor on GitHub](https://github.com/thelideres/fresh-pages-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+O app **The Lideres** te ajuda a avaliar os resultados das Eleições Municipais. Você pode usar o app para consultar relatórios eleitorais dos candidatos, municípios e das zonas eleitorais em seu Estado.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Características
 
-### Markdown
+Com o **The Lideres** você pode: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Encontrar rapidamente os dados eleitorais relevante de um candidato.
+- Descubrir quem são os líderes políticos da sua região por percentagem de votos válidos.
+- Consultar o desempenho eleitoral dos candidatos em cada zona eleitoral.
+- Acessar os relatórios eleitorais mesmo sem conexão à internet. 
 
-```markdown
-Syntax highlighted code block
+The Lideres está disponível na App Store nas versões para o [Rio de Janeiro](http://apple.co/2r0vI5b), [São Paulo](http://apple.co/2qraY3N) e [Minas Gerais](http://apple.co/2r8fVPY). 
 
-# Header 1
-## Header 2
-### Header 3
+Os dados são fornecidos pelo Tribunal Superior Eleitoral ([TSE](http://bit.ly/2qnYT39)).
 
-- Bulleted
-- List
+### Suporte
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thelideres/fresh-pages-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Tem alguma sugestão? ou quer bater apenas um papo sobre resultados eleitorais? Iniciei uma conversa agora comigo pelo **thelideresapp@gmail.com**. 
+Espero que você tenha um ótimo dia! 🤓 - Fabio 
